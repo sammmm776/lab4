@@ -28,4 +28,4 @@ bin/
 ### Mac OS ###
 .DS_Store
 # Project exclude paths
-/src/main/
+/build/
